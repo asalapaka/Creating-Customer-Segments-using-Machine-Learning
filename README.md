@@ -15,3 +15,17 @@ Afterwards, preprocessed the data by scaling each product category and then iden
  # Key Takeaways
  
 I believe it is important for any industry or business to know their customers in order to function in the most efficent manner possible in order to derive the hoghest profits. Good business comes from knowing your customers well in today's customer oriented world. It's equally important for businesses to understand the market segmentations and how their customers are divided to best entertain their needs and build an important relationship.
+
+# Data
+
+The customer segments data is included as a selection of 440 data points collected on data found from clients of a wholesale distributor in Lisbon, Portugal. More information can be found on the UCI Machine Learning Repository. Note (m.u.) is shorthand for monetary units.
+
+Features
+ - Fresh: annual spending (m.u.) on fresh products (Continuous);
+ - Milk: annual spending (m.u.) on milk products (Continuous);
+ - Grocery: annual spending (m.u.) on grocery products (Continuous);
+ - Frozen: annual spending (m.u.) on frozen products (Continuous);
+ - Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous);
+ - Delicatessen: annual spending (m.u.) on and delicatessen products (Continuous);
+ - Channel: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)
+ - Region: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal)
